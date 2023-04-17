@@ -10,7 +10,7 @@ v rámci štúdia na vysokej škole využívajúc technológiu JPA s pripojením
 API v podobe java metód na obsluhu funkcionality. Aplikácia nemusí poskytovať žiadne používateľské rozhranie. Môžte
 sa inšpirovať [projektami z cvičení](https://github.com/Interes-Group/b-vsa-cvicenia). Dbajte na držanie pokynov
 zadania nakoľko bude opravované automatizovane pomocou JUnit testov. Na konci zadania je návod, ako si spustiť tzv.
-"sanity-check" test lokálne pre otestovanie splnenia konfigurácie vypracovania aby bol projekt testovateľný.
+"sanity-check" test lokálne pre otestovanie splnenia konfigurácie vypracovania aby bol projekt testovateľný. Ja
 
 ## Entity
 
